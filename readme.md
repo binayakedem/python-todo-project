@@ -88,3 +88,5 @@ class TaskAdmin(admin.ModelAdmin):
     list_display=('name','description','is_completed')
     list_filter=('is_completed',)
     search_fields=('name',) -->
+
+<!-- jsonformatter.curiosconcept.com -->
